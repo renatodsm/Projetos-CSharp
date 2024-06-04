@@ -7,6 +7,7 @@ Neste projeto, iremos criar uma aplicação console de uma calculadora simples e
 ### Estrutura do Projeto
 
 MeuProjeto/
+
 │
 
 ├── src/
