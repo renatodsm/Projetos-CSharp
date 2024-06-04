@@ -8,12 +8,18 @@ Neste projeto, iremos criar uma aplicação console de uma calculadora simples e
 
 MeuProjeto/
 │
+
 ├── src/
+
 │ └── MeuProjeto/
+
 │ └── Calculadora.cs
+
 │
 └── test/
+
 └── MeuProjeto.Tests/
+
 └── CalculadoraTests.cs
 
 csharp
