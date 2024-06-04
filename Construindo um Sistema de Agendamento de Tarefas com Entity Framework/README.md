@@ -60,10 +60,3 @@
   "data": "2022-06-08T01:31:07.056Z",
   "status": "Pendente"
 }
-Executando a Aplicação
-Para executar a aplicação, siga as instruções do ambiente de desenvolvimento e execute o projeto.
-Tecnologias Utilizadas
-C#
-.NET
-Entity Framework
-Web API
