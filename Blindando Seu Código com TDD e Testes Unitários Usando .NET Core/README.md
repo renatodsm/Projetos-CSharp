@@ -36,7 +36,7 @@ Copiar código
 
 ### Implementação da Calculadora
 
-Aqui está um exemplo de como a classe `Calculadora` pode ser implementada:
+Aqui está um exemplo de como a classe `Calculadora` é implementada:
 
 ```csharp
 namespace MeuProjeto
